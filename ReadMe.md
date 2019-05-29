@@ -71,7 +71,8 @@ Students by the end of the course will be able to ...
 - Projects should be linked to a project page which has a description & requirements.
 
 ### Tutorials
-- We'll be exploring Keras on the Cifar dataset: https://www.makeschool.com/academy/track/ds-2-1-classification-tutorial
+- We'll be exploring Keras on the Cifar dataset
+- https://www.makeschool.com/academy/track/standalone/keras-for-image-classification-pfw/keras-and-neural-networks
 
 ### Projects
 - You will choose your own dataset to clean, investigate, and make predictions or classification or clustering on it
